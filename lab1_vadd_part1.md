@@ -42,7 +42,10 @@ Your journey with Versal devices begins here, buckle up!
 
 ### Clone repo
 
-Follow these steps to get the source code for this tutorial, [xup_get_sources.md](xup_get_sources.md)
+Follow these steps to get the source code for this tutorial, 
+```
+git clone --recursive https://github.com/vickyiii/WinterCamp-2023-AIE.git
+```
 
 ### Create a Vitis Project for the VCK5000 Versal Development Card
 
