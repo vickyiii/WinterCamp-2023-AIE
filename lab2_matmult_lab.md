@@ -20,7 +20,7 @@ In this lab, you will add four different AIE kernels, each of them supporting a 
 
 ### Create a Vitis Project for the VCK5000 Versal Development Card
 
-1. Verify that the tools and VCK5000 platform are setup correctly [here](setup_workshop.md#verifying-tools-installation)
+1. Verify that the tools and VCK5000 platform are setup correctly [here](./Setup_VCK5000.md)
 
 1. If you are not in the Vitis IDE already, start the Vitis IDE by running
 
