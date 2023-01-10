@@ -90,6 +90,17 @@ This version of the tutorial has been verified for the following environments. V
             <td>
             </td>
             <td>
+            Demo on how to get started with VCK5000 Card on HACC
+            </td>
+			<td>
+			<a href= "./Setup_VCK5000.md"> VCK5000 Getting Started on HACC</a>
+		</td>
+        <tr>
+            <td height="24">
+            </td>
+            <td>
+            </td>
+            <td>
             Lab1: Vecter Addition Using Streams 
             </td>
 			<td>
@@ -240,6 +251,8 @@ This version of the tutorial has been verified for the following environments. V
 1. [AI Engine API User Guide](https://www.xilinx.com/htmldocs/xilinx2022_2/aiengine_api/aie_api/doc/index.html)
 
 1. [AI Engine Intrinsics](https://www.xilinx.com/htmldocs/xilinx2022_2/aiengine_intrinsics/intrinsics/index.html)
+
+1. [AI Engine Development Tutorial](https://github.com/Xilinx/Vitis-Tutorials/tree/2022.2/AI_Engine_Development/Feature_Tutorials)
 
 1. [Versal ACAP AI Engine Register Reference](https://www.xilinx.com/htmldocs/registers/am015/am015-versal-aie-register-reference.html)
 
