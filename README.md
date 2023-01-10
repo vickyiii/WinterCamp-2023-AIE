@@ -5,11 +5,13 @@ Please DO NOT distribute this document for any commercial purposes.
 
 ## Tools Versions
 
-This version of the tutorial has been verified for the following environments
+This version of the tutorial has been verified for the following environments. VCK5000 Local HW-EMU environment setup and HACC Getting started steps can be found [here](./Setup_VCK5000.md)
 
 | Environment  | Vitis   |    XRT   | Shell | Notes |
 |--------------|---------|----------|-------|-------|
 | HACC-NUS      | 2022.1  | 2.13.478  | xilinx_vck5000_gen4x8_xdma_2_202210_1| 6 VCK5000s are available |
+
+
 
 ## Schedule
 
