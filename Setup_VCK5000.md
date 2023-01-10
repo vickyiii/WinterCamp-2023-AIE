@@ -33,7 +33,7 @@ ssh username@xacchead.d2.comp.nus.edu.sg
 
 you will login to the node __hacchead__
 
-After getting into __hacchead__, please clone this repository so that you can use the script tools provided by us.
+After getting into __hacchead__, please clone this repository so that you can use the script tools provided by HACC@NUS.
 
 ```
 git clone https://github.com/XACCNUS/hacc_demo.git
