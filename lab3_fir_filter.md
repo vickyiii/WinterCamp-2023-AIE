@@ -74,7 +74,7 @@ fir_lab/scalar $ vitis_analyzer ./Debug/aiesimulator_output/default.aierun_summa
 ```
 If we look at the profile view, we can see the execution time from our kernel (fir_asym_8t_16int_scalar)
 
-![scalar](./images/fir_lab/scalar.jfif)
+![scalar](./images/fir_lab/scalar.png)
 
 
 We can see that to process the 256 samples, the kernel we have written is taking 5661 clock cycles (or 5.661 us with an AI Engine array running at 1 GHz).
@@ -171,7 +171,7 @@ fir_lab/vectorized $ vitis_analyzer ./Debug/aiesimulator_output/default.aierun_s
 ```
 If we look at the profile view, we can see the execution time from our kernel (fir_asym_8t_16int_vectorized):
  
-![vector](./images/fir_lab/vector.jfif)
+![vector](./images/fir_lab/vector.png)
  
 
 We can see that to process the 256 samples, the vectorized kernel is taking 140 cycles (or 140ns with an AI Engine array running at 1 GHz) which is 40 times better than with the scalar version.

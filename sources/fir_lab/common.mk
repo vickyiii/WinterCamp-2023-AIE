@@ -11,7 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-PFM = xilinx_vck190_base_202120_1
+PFM = xilinx_vck5000_gen4x8_xdma_2_202210_1
 
 AIE_CC = aiecompiler
 AIE_SIM = aiesimulator
