@@ -150,6 +150,7 @@ Steps on adding the host application, page 30 onwards
 
    ![](images/vadd_lab/host_domain_cpp_settings_compiler_include_all_paths.png)
 -->
+
 1. Select `GCC Host Linker (x_86_64) > Libraries`
 
    Add the following libraries, under Libraries (-l)
