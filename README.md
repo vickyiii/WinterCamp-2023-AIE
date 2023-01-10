@@ -9,7 +9,7 @@ This version of the tutorial has been verified for the following environments. V
 
 | Environment  | Vitis   |    XRT   | Shell | Notes |
 |--------------|---------|----------|-------|-------|
-| HACC-NUS      | 2022.1  | 2.13.478  | xilinx_vck5000_gen4x8_xdma_2_202210_1| 6 VCK5000s are available |
+| HACC-NUS      | 2022.1  | 2.13.478  | xilinx_vck5000_gen4x8_xdma_2_202210_1|  |
 
 
 
@@ -84,17 +84,6 @@ This version of the tutorial has been verified for the following environments. V
             <a href= "https://docs.xilinx.com/r/en-US/ug1076-ai-engine-environment/Integrating-the-Application-Using-the-Vitis-Tools-Flow" >Integrating the Application Using the Vitis Tools Flow</a>
             </td>
         </tr>
-        <tr>
-            <td height="24">
-            </td>
-            <td>
-            </td>
-            <td>
-            Demo on how to get started with VCK5000 Card on HACC
-            </td>
-			<td>
-			<a href= "./Setup_VCK5000.md"> VCK5000 Getting Started on HACC</a>
-		</td>
         <tr>
             <td height="24">
             </td>
@@ -208,12 +197,23 @@ This version of the tutorial has been verified for the following environments. V
 			<td>
 			<a href= "https://docs.xilinx.com/r/en-US/ug1079-ai-engine-kernel-coding/Vectorized-Version-Using-Multiple-Kernels">Multiple Kernels Using Graphs</a>
 			</td>
+        <tr>
+            <td height="24">
+            </td>
+            <td>
+            2:00 PM-4:00 PM
+            </td>
+            <td>
+            Demo on how to get started with VCK5000 Card on HACC
+            </td>
+			<td>
+			<a href= "./Setup_VCK5000.md"> VCK5000 Getting Started on HACC</a>
+		</td>
         </tr>
            <tr>
             <td height="24">
             </td>
             <td>
-            2:00 PM-4:00 PM
             </td>
             <td>
 			Lab3: Code vectorization of a FIR filter using the AIE APIs
