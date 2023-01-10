@@ -24,7 +24,7 @@ Below you can find a list of comprehensive documentation related to the steps we
 
 * [Packaging the System: Packaging for Data Center Platforms](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Packaging-for-Data-Center-Platforms)
 
-* [Running the Application Hardware Build](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Running-the-Application-Hardware-Build)
+* [Running the Application](https://docs.xilinx.com/r/en-US/ug1393-vitis-application-acceleration/Running-the-Application)
 
 ## Description of the lab
 
