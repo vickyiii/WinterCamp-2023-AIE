@@ -1,8 +1,17 @@
 # WinterCamp-2023-AIE
 
-This is a private repository to deliver the 2023 Winter Camp AIE Training Material on Jan 8~ , 2023.
+This is a private repository to deliver the 2023 Winter Camp AIE Training Material on Jan 11~16, 2023.
+Please DO NOT distribute this document for any commercial purposes.
 
-This is a private repository to deliver the Alveo Training Material on October 28~29, 2022.
+## Tools Versions
+
+This version of the tutorial has been verified for the following environments
+
+| Environment  | Vitis   |    XRT   | Shell | Notes |
+|--------------|---------|----------|-------|-------|
+| HACC-NUS      | 2022.1  | 2.13.478  | xilinx_vck5000_gen4x8_xdma_2_202210_1| 6 VCK5000s are available |
+
+## Schedule
 
 <table border="0" width="100%">
     <tbody>
@@ -143,10 +152,10 @@ This is a private repository to deliver the Alveo Training Material on October 2
             <td>
             </td>
             <td>
-            Lab2: Code vectorization of a FIR filter using the AIE APIs
+            Lab2: Full system running the AI Engine
             </td>
 			<td>
-			<a href= "./lab2_fir_filter.md">FIR Lab Guide</a>
+			<a href= "./lab2_matmult_lab.md">Matmult Lab Guide</a>
 			</td>
         </tr>
             <tr>
@@ -194,10 +203,10 @@ This is a private repository to deliver the Alveo Training Material on October 2
             2:00 PM-4:00 PM
             </td>
             <td>
-			Lab3: Full system running the AI Engine
+			Lab3: Code vectorization of a FIR filter using the AIE APIs
 			</td>
             <td>
-            <a href= "./lab3_matmult.md" >Creating a floating point Matrix Multiplication kernel</a>
+            <a href= "./lab3_fir_filter.md" > Fir Filter Lab Guide</a>
             </td>
         </tr>
 </table>

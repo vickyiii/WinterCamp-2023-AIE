@@ -215,7 +215,6 @@ In this section, we are going to run the vector add in actual hardware
 
 1. Run!
 
-1. For XUP internal training, follow [these steps](run_labs_xup_internal.md#vadd-lab)
 
 ## Conclusion
 

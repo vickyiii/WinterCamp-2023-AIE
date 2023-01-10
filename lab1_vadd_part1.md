@@ -33,7 +33,7 @@ After completing this lab, you will learn to:
 - Run AI Engine software simulation
 - Run AI Engine software emulation
 - Linking kernels between Adaptable and AI Engines
-- Profile (perhaps part 2?)
+- Profile 
 - Run hardware
 
 ## Steps
@@ -49,7 +49,9 @@ git clone --recursive https://github.com/vickyiii/WinterCamp-2023-AIE.git
 
 ### Create a Vitis Project for the VCK5000 Versal Development Card
 
-1. Verify that the tools and VCK5000 platform are setup correctly [here](setup_xup_tutorial.md#verifying-tools-installation)
+1. Verify that the tools and VCK5000 platform are setup correctly [here](./Setup_VCK5000.md)
+
+Note: please ignore the 
 
 1. In a terminal, start the Vitis GUI by running
 
